@@ -1,6 +1,6 @@
 > Installation Steps Provided Below.
 
-##How It Works
+## How It Works
 Authentication: The tool uses your Meetup API key for authentication.
 
 Configuration: You specify which groups to monitor in the config.json file.
@@ -34,7 +34,7 @@ crontab -e
 ```
 
 
-##Troubleshooting
+## Troubleshooting
 If you encounter authentication issues, verify your API key is correct.
 
 If the tool isn't RSVPing to events, check your group configurations and make sure the group urlnames are correct.
