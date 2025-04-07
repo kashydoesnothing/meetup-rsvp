@@ -1,0 +1,22 @@
+{
+    "groups": [
+      {
+        "urlname": "Python-Developers-Group",
+        "auto_rsvp": true,
+        "keywords": ["workshop", "networking"]
+      },
+      {
+        "urlname": "JavaScript-Meetup",
+        "auto_rsvp": true,
+        "keywords": []
+      },
+      {
+        "urlname": "Data-Science-Enthusiasts",
+        "auto_rsvp": true,
+        "keywords": ["machine learning", "AI"]
+      }
+    ],
+    "check_interval_hours": 1,
+    "rsvp_answer_default": "yes"
+  }
+  
